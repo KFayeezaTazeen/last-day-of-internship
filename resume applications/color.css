@@ -1,0 +1,24 @@
+#col1{
+    background-color: aquamarine;
+    height: 500px;
+}
+#col2{
+    background-color:antiquewhite;
+    height: 500px;
+}
+#img1{
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    margin-left: 60px;
+}
+#con{
+    border:4px solid blue;
+    border-right: 0;
+    border-top: 0pc;
+    border-bottom: 0ch;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
+
